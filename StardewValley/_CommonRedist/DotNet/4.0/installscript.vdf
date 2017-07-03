@@ -1,0 +1,16 @@
+"installscript"
+{
+	"Run Process"
+	{
+		"4.0"
+		{
+			"hasrunkey"		"HKEY_LOCAL_MACHINE\\Software\\Valve\\Steam\\Apps\\CommonRedist\\.NET\\4.0"
+			"process 1"		"%INSTALLDIR%\\_CommonRedist\\DotNet\\4.0\\Microsoft .NET Framework 4.0.cmd"
+			"nocleanup"		"1"
+		}
+	}
+}
+"kvsignatures"
+{
+	"installscript"		"8d0a7b1248bfe8e3246ef182019f02e8b322630f666874089f6bd1c05b99976e0170e8ad81e50d36931ec6dc6d90e44685e04c7dde1b42a8006d3fae1d117af74e43db95124074b65aa24bcb254c88d4fa35c78ec94022d9f7ef49bb9c7a72013c817ebca220061eed218657a23019b45f601aaeb28f868406262da87c4a6923"
+}

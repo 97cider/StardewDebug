@@ -1,0 +1,13 @@
+﻿{
+   "Name": "Stardew Valley: Debug!",
+   "Author": "Brendan McFadden",
+   "Version": {
+      "MajorVersion": 1,
+      "MinorVersion": 0,
+      "PatchVersion": 0,
+      "Build": ""
+   },
+   "Description": "A mod that adds animal crossing esque bug catching to the lore of SDV",
+   "UniqueID": "bmcfadden.SDVDebugEX",
+   "EntryDll": "StardewTestTwo.dll"
+}
