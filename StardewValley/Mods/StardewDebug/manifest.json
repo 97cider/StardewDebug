@@ -1,0 +1,13 @@
+﻿{
+   "Name": "Stardew Valley: Debug",
+   "Author": "Brendan McFadden",
+   "Version": {
+      "MajorVersion": 1,
+      "MinorVersion": 0,
+      "PatchVersion": 0,
+      "Build": null
+   },
+   "Description": "Animal-Crossing-esque bug catching and overhaul",
+   "UniqueID": "oniifam.stardewdebug",
+   "EntryDll": "stardewdebug.dll"
+}
